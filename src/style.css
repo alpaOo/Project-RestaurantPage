@@ -19,3 +19,7 @@
 .nav-bar > li {
   list-style-type: none;
 }
+
+.nav-bar > li:hover {
+  color: hsl(0, 50%, 50%);
+}
